@@ -202,3 +202,91 @@ nav {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* main body */
+
+.containerbox {
+  max-width: 93.22222%;
+  
+}
+
+.main-body {
+  float: left;
+  width: 50%;
+}
+.main-body p {
+      
+  text-align: justify;
+  
+  line-height: 1.2;
+}
+.mainbody-sec {
+  
+  background: lightgray;
+  padding-left: 5px;
+}
+.sec-img img {
+  height: 173px;
+  width: 90%;
+  margin-top: 7px;
+}
+.mainbody-head p {
+  text-align: justify;
+  line-height: 1.2;
+}
+.mainbody-head {
+  padding: 5px 11px;
+}
+.mainbody-head h1 {
+  text-align: justify;
+}
+.mainbody-head .sendbtn {
+  color: white;
+  border-radius: 50px;
+  background-color: red;
+  padding: 11px;
+  width: 382px;
+  border: none;
+}
+              
+
+/* side bar */
+
+.details p {
+  text-align: justify;
+  padding-left: 10px;
+}
+.details h1 {
+  text-align: justify;
+  padding-left: 10px;
+}
+.details .btn1 {
+  color: white;
+  padding: 10px;
+  background-color: red;
+  border: none;
+  width: 220px;
+  margin: 10px;
+}
+.details .btn2 {
+  color: red;
+  padding: 10px;
+  background-color: white;
+  border: none;
+  width: 220px;
+  margin: 10px;
+}
+.details span {
+  position: relative;
+  left: 70px;
+}
+.details span i {
+  font-size: 25px;
+  border-radius: 50px;
+  color: white;
+  padding: 3px;
+}
+.alldiv {
+  border: 1px solid gray;
+}
